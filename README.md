@@ -28,3 +28,4 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 "# Vue.JS-Requisicoes-HTTP" 
+"# Vue.JS-Requisicoes-HTTP" 
