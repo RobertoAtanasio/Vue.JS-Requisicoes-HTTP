@@ -11,7 +11,7 @@
 export default {
    props: {
         mensagens: {
-            type: Object,
+            type: Array,
             required: true
         }
     }
